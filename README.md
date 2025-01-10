@@ -1,6 +1,6 @@
 
 
-Hey I'm a Full Stack Web Developer who has a passion of making ideas become digitally true. ;)
+Hey I'm a Developer who has a passion of making ideas become digitally true. ;)
 
 
 I constantly work on different projects that interest me and help businesses that I believe in to meet their digital potential and thrive in the online world.
