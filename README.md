@@ -1,7 +1,26 @@
+### Hi, I'm Catherina
 
+Software engineer based in Oslo, Norway. I build production web applications with React, TypeScript, and Next.js, and I'm comfortable working across the full stack.
 
-Hey I'm a Developer who has a passion of making ideas become digitally true. ;)
+---
 
+#### What I work with
 
-I constantly work on different projects that interest me and help businesses that I believe in to meet their digital potential and thrive in the online world.
-Me and my team always push for a breakthrough in the world and to change things. I always am on lookout for cool collaborations to help push things to the next level.🚀
+**Frontend:** React, TypeScript, Next.js, React Native, HTML/CSS
+**Backend:** Python (FastAPI, Django), Node.js, REST APIs, PostgreSQL, MongoDB
+**DevOps:** Docker, GitHub Actions, CI/CD
+**AI:** LLM API integration, prompt engineering
+
+---
+
+#### Shipped products
+
+**[JerseyAppeal](https://jerseyappeal.tax)** — Full-stack Next.js app that helps homeowners check and appeal property tax assessments. Integrates public records APIs, compares nearby sales data, and generates PDF appeal reports.
+
+**[LeadRadar](https://leadradar.no)** — AI-powered Reddit lead generation platform. Built the full React/TypeScript frontend: real-time dashboards, lead scoring UI, and automated outreach.
+
+---
+
+#### Get in touch
+
+[catherinaalskaff.com](https://catherinaalskaff.com) · [LinkedIn](https://linkedin.com/in/catherinaalskaff) · catherine.alskaf@gmail.com
